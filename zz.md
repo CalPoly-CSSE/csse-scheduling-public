@@ -9,6 +9,7 @@ This is almost completely wrong. Just so you know.
 
 
 |course |Fall 2025 - 2258|Winter 2026 - 2262|Spring 2026 - 2264|
+|-------|----------------|------------------|------------------|
 |csc 101|X               |X                 |X                 |
 |csc 121|                |                  |                  |
 |csc 122|                |                  |                  |
