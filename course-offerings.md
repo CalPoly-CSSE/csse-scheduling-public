@@ -1,3 +1,9 @@
+# Course Offerings 2025-2026
+
+This is a vague guess at what courses the CSSE department
+will be offering in the 2025-2026 year. Please don't make any
+major life decisions based on its probably-incorrect content.
+
                                                                 
 |course |Fall 2025 - 2258|Winter 2026 - 2262|Spring 2026 - 2264|
 |---:   |:---:           |:---:             |:---:             |
